@@ -1,4 +1,4 @@
-# 🤖 AI Summarizer – Complete Document Processing System  
+# AI Summarizer – Multilingual Document Summarization Platform (For Sale)
 **Exclusive One-Time Sale**
 
 [![License](https://img.shields.io/badge/License-Exclusive-blue.svg)](LICENSE.md)  
@@ -96,4 +96,5 @@
 
 **© 2025 AI Summarizer – All Rights Reserved**  
 *Exclusive one-time sale of full rights and ownership.*
+
 
