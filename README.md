@@ -9,6 +9,7 @@
 ---
 # ⚠️ Full source code and deployment files will be delivered only after purchase.
 
+📊 For detailed market and business analysis, see [BUSINESS.md](BUSINESS.md).
 
 ## 💰 Price
 **$12,000 USD (Negotiable)**  
@@ -95,3 +96,4 @@
 
 **© 2025 AI Summarizer – All Rights Reserved**  
 *Exclusive one-time sale of full rights and ownership.*
+
